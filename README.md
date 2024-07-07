@@ -21,13 +21,23 @@ Informasi Aplikasi
 
 ### Screenshot
 
+### HALAMAN LOG-IN
+
 <img src="/Screenshot/login.png?raw=true" alt="Halaman Login" align="center">
+
+### HALAMAN UTAMA
 
 <img src="/Screenshot/halaman-utama.png?raw=true" alt="Halaman Utama" align="center">
 
+### HALAMAN INPUT BARANG
+
 <img src="/Screenshot/input-barang.png?raw=true" alt="Halaman Input Barang" align="center">
 
+### HALAMAN EDIT BARANG
+
 <img src="/Screenshot/edit-data-barang.png?raw=true" alt="Halaman Edit Data Barang" align="center">
+
+### HALAMAN GANTI PASSWORD
 
 <img src="/Screenshot/ganti-password.png?raw=true" alt="Halaman Ganti Password" align="center">
 
@@ -50,7 +60,3 @@ Informasi Aplikasi
 - [ ] Paging (Pembagian Output Data Menjadi Beberapa Halaman Sesuai Banyaknya Data Dalam Database)
 
 ---
-
-### Credits
-
-[Apache Friends a.k.a XAMPP](https://www.apachefriends.org/) | [PHP: Hypertext Preprocessor a.k.a PHP](https://php.net/) | [MySQL](https://www.mysql.com/) | [Bootstrap](https://getbootstrap.com/) | [GitHub](https://github.com/) | <b>Yanda Avisena</b> who's help perfecting this project.
