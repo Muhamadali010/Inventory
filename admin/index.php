@@ -43,7 +43,7 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="pass.php"><i class="fas fa-cog"></i> Ganti Password ..</a>
-              <a class="dropdown-item" href="https://github.com/muhrizki1996/aplikasi-inventory-barang-sederhana-php/" target="_blank"><i class="fab fa-github"></i> View on GitHub ..</a>
+              <a class="dropdown-item" href="https://github.com/Muhamadali010/Inventory.git" target="_blank"><i class="fab fa-github"></i> View on GitHub ..</a>
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="logout.php"><i class="fas fa-sign-out-alt"></i> Logout</a>
             </div>
