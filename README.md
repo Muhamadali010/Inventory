@@ -1,12 +1,5 @@
 # aplikasi-inventory-barang-sederhana-php
 
-Aplikasi Inventory Barang Sederhana (PHP)
-
-Informasi Aplikasi
-
-- Database: MySQL 5.6.26
-- Programming Language: Hypertext Preprocessor (PHP) 5.6.12
-- CSS Framework: Bootstrap 4
 
 ### Petunjuk Penggunaan
 
